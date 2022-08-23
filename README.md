@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nadaworks
-- 👀 I’m interested in the human anatomy, dental implants, MagicaVoxel, violin, and many other things...
+- 👀 I’m interested in the human psicology, computer science, dental implants,
+ MagicaVoxel, violin, design, animation and many other things...
 - 🌱 I’m currently learning CSS, HTML, JS and PHP
 - 💞️ I’m looking to collaborate in the development of the human species
 - 📫 How to reach me nru.works@gmail.com
